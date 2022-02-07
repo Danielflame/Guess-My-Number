@@ -14,5 +14,7 @@ A number guessing game built with vanilla Javascript
 1)	Event Listeners
 2)	DOM Manipulation
 
+View game here <a href="https://danielflame.github.io/Guess-My-Number/">here</a>
+
 CSS Styling by Jonas Schmedtmann
 
